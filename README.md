@@ -1,5 +1,4 @@
-# Coursera: The Unix Workbench
-## Peer-graded Assignment: Bash, Make, Git, and GitHub
-* README.md created at: 3024(date '+%Y-%m-%d %H:%M:%S')
-* Lines of code in guessinggame.sh: 3024(wc -l guessinggame.sh  | egrep -o "[0-9]+")
-# unix-workbench-assignment
+# Guessing Game Bash Script for Unix Workbench\n
+* This Make file was ran at: 2019-02-14:11:14:31
+* There were There were 23 lines in guessinggame.sh
+
